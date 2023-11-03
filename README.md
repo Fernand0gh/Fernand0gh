@@ -19,3 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernand0gh&show_icons=true&theme=onedark&title_color=000000&text_color=000000&bg_color=d99af1&hide_border=true&locale=en&layout=compact" alt="fernand0gh" /></p>
 
 
+![octocat-1699078812414](https://github.com/Fernand0gh/Fernand0gh/assets/117942609/ea59488a-9c33-4f83-afab-9cc62f9ee6bc)
