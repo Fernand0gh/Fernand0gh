@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity, Java, Azure and AWS**
 
-- 📫 How to reach me **https://www.linkedin.com/in/fernand0gh/**
+- 📫 How to reach me **fernand055jfgh@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1O9dTVJMmZxC90fVWW8NkKkbl99_rIf9Ml5u5LZ1Y6mA/edit?usp=sharing](https://docs.google.com/document/d/1O9dTVJMmZxC90fVWW8NkKkbl99_rIf9Ml5u5LZ1Y6mA/edit?usp=sharing)
 
