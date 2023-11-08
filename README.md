@@ -3,7 +3,7 @@
 
 <img src="https://github.com/Fernand0gh/Fernand0gh/assets/117942609/ea59488a-9c33-4f83-afab-9cc62f9ee6bc" width=100, height=100>
 
-- 🌱 I’m currently learning **Cybersecurity, Java, Azure**
+- 🌱 I’m currently learning **Cybersecurity, Java, Python, Go, Cloud Computing**
 
 - 📫 How to reach me **fernand055jfgh@gmail.com**
 
