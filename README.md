@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">I'm passionate about Cybersecurity, Programming and Cloud Computing</h3>
-
-- 🌱 I’m currently learning **Cybersecurity and Cloud Computing**
+<h3 align="center">I'm passionate about Software Engineering, Cybersecurity and Cloud Computing</h3>
 
 - 📫 How to reach me **fernand055jfgh@gmail.com**
 
